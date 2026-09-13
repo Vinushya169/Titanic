@@ -89,7 +89,7 @@ Using Python and Machine Learning, we analyze the passenger data and build a mod
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/Vinushya169/Titanic-Survival-Analysis.git
+git clone https://github.com/Vinushya169/Titanic.git
 
 # 2. Go to project folder
 cd Titanic-Survival-Analysis
