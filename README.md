@@ -128,6 +128,4 @@ Titanic-Survival-Analysis/
 ---
 ⭐ If you liked this project, give it a star!
 
-**Ithu perusa, professional-a irukkum da!** Recruiter paatha impress aayiduvanga!
 
-**Commit panna aprom link anuppu da, naan paathu OK solluven!**
