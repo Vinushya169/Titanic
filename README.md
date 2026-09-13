@@ -1,6 +1,4 @@
-Okay da, perusa venum la? Itho FULL perusa professional README! 🚢✨
 
-*Idha full-a copy pannu da - Titanic ku mass ah irukkum:*
 # 🚢 Titanic Survival Analysis - EDA & Machine Learning Prediction
 
 > An end-to-end Data Analysis and Machine Learning project to analyze the Titanic disaster and predict passenger survival.
@@ -112,11 +110,11 @@ Titanic-Survival-Analysis/
 ├── README.md
 └── titanic_survival_model.pkl
 ## 👩‍💻 Author
-*Vinushya S*
+*Vinushya M*
 - Aspiring Data Analyst | Data Science Enthusiast
 - Skills: Python, SQL, Pandas, ML, Data Visualization
 - GitHub: https://github.com/Vinushya169
-- LinkedIn: [Your LinkedIn Profile Link]
+- LinkedIn: [https://www.linkedin.com/in/vinushya-m-80b92b400]
 
 ## 🌟 Future Improvements
 - Try XGBoost and LightGBM for better accuracy
